@@ -4,4 +4,4 @@ ORGINAL: https://dribbble.com/shots/21256285-Travel-Agency-Login-page
 
 El siguiente codigo es la copia de ese login.
 
-MI PAGINA: file:///C:/Users/valen/Desktop/login/index.html?
+MI PAGINA: https://valenisgroo.github.io/image-based-web-project-login/
